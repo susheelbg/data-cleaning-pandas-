@@ -96,4 +96,4 @@ print("Cleaned DataFrame Info:")
 df_cleaned_project.info()
 print("\nUnique Genders:", df_cleaned_project['Gender'].unique())
 print("\nCleaned DataFrame Sample:")
-display(df_cleaned_project.head(10))  wt happende here simply explain 
+display(df_cleaned_project.head(10))  
